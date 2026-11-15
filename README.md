@@ -2,5 +2,6 @@
 2. Concatenation of array
 3. Richest customer wealth
 4. Two Sum
-5. Valid Anagram
-6. Remove duplicates from sorted array
+5. Contain Duplicates
+6. Valid Anagram
+7. Remove duplicates from sorted array
