@@ -5,3 +5,4 @@
 3. Game Level Designer
 4. F1 Driver
 5. Marine Salvage Diver
+6. Remote Lighthouse Caretaker
