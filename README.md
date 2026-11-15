@@ -1,12 +1,12 @@
-1. Running sum of 1d array
-2. Concatenation of array
-3. Richest customer wealth
-4. Two Sum
-5. Contain Duplicates
-6. Valid Anagram
-7. Longest Common Prefix
-8. Valid Palindrome
-9. Remove duplicates from sorted array
-10. Reverse String
-11. Valid Parenthesis
-12. Best time to buy and sell stocks
+[ ] 1. Running Sum of 1d Array
+[ ] 2. Concatenation of Array
+[ ] 3. Richest Customer Wealth
+[ ] 4. Remove Duplicates from Sorted Array
+[ ] 5. Valid Anagram
+[ ] 6. Two Sum
+[ ] 7. Contains Duplicate
+[ ] 8. Longest Common Prefix
+[ ] 9. Reverse String
+[ ] 10. Valid Palindrome
+[ ] 11. Valid Parentheses
+[ ] 12. Best Time to Buy and Sell Stock
