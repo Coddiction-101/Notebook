@@ -1,6 +1,6 @@
-[ ] 1. Running Sum of 1d Array
+[x] 1. Running Sum of 1d Array
 
-[ ] 2. Concatenation of Array
+[x] 2. Concatenation of Array
 
 [ ] 3. Richest Customer Wealth
 
