@@ -9,4 +9,4 @@
 [ ] 9. Reverse String
 [ ] 10. Valid Palindrome
 [ ] 11. Valid Parentheses
-[ ] 12. Best Time to Buy and Sell Stock
+[ ] 12. Best Time to Buy and Sell Stockk
