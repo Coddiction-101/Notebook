@@ -4,4 +4,5 @@
 4. Two Sum
 5. Contain Duplicates
 6. Valid Anagram
-7. Remove duplicates from sorted array
+7. Longest Common Prefix
+8. Remove duplicates from sorted array
