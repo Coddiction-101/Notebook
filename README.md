@@ -8,3 +8,4 @@
 8. Valid Palindrome
 9. Remove duplicates from sorted array
 10. Reverse String
+11. Valid Parenthesis
