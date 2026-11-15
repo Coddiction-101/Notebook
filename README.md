@@ -6,3 +6,4 @@
 6. Valid Anagram
 7. Longest Common Prefix
 8. Remove duplicates from sorted array
+9. Reverse String
